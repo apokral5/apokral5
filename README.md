@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,c#,javascript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me (if you want i reach you)
 
