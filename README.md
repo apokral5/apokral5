@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apokral5
+- 👋 Hi, I’m Abdullah
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
