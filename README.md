@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Abdullah
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python,c#,javascript
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me (if you want i reach you)
-
-<!---
-apokral5/apokral5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hi i am abdullah i from turkiye i am computer enginnering student at ataturk university as a third year i have experience in c,c++,c#,matlab,python,html,css,javascript,Sql my english level is B1. i am plannig to learn about asp.net mvc and other technologies
