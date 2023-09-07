@@ -1,1 +1,1 @@
-hi i am abdullah i from turkiye i am computer enginnering student at ataturk university as a third year i have experience in c,c++,c#,matlab,python,html,css,javascript,Sql my english level is B1. i am plannig to learn about asp.net mvc and other technologies
+ hi i am abdullah i from turkiye i am computer enginnering student at ataturk university as a third year i have experience in c,c++,c#,matlab,python,html,css,javascript,Sql my english level is B1. i am plannig to learn about asp.net mvc and other technologies
